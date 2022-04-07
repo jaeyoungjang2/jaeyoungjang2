@@ -38,7 +38,6 @@ You can click the Preview link to take a look at your changes.
   <h3 align="center">✨ About me ✨ </h3>
 <p align="center" float="left">
 
-<a href="https://daram.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFB80B?style=flat-square&logo=Tistory&logoColor=white&link=https://www.instagram.com/ryu_ri_m/?hl=ko"/> http://daram.tistory.com</a>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyoungjang2&show_icons=true&theme=tokyonight) 
 
