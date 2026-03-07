@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
  ✔공부는 블로그에 차곡차곡
  https://daram.tistory.com/
 
- 유전체 분석회사에서 4년간 근무한 경험이 있으며, 좋은 개발자가 되기 위해, 좋은 코드를 작성하기 위해 매일 노력하고 있습니다! 😁
+ 좋은 코드를 작성하기 위해 매일 노력하고 있습니다! 😁
 
 - 메일: [lion85488@gmail.com](mailto:lion85488@gmail.com)
 
